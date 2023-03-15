@@ -1,0 +1,411 @@
+@media (min-width: 320px) and (max-width: 767px){
+
+    img.LOGO {
+        width: 85%;
+    }
+
+    ul.navbar-nav {
+        margin-left: 0;
+    }
+
+    .navbar-nav {
+        display: flex;
+        gap: 0px;
+        /* align-items: center; */
+        justify-content: space-evenly;
+    }
+
+    .navbar-nav {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .contactus {
+        width: 120px;
+        height: 40px;
+        font-size: 14px;
+        margin-top: 8px;
+        margin: 0;
+    }
+
+    .navbar-toggler {
+        padding: 0 !important;
+    }
+
+
+    .Frame35 {
+        padding-top: 7px;
+        padding-bottom: 0;
+        margin-top: 0;
+        background-position: center;
+    }
+
+    .Impacting {
+        font-size: 25px;
+        line-height: 35px;
+        margin-top: 20px;
+    }
+
+    .para1 {
+        font-size: 14px;
+        margin-top: -25px;
+    }
+
+    .Impacting br {
+        display: none;
+    }
+
+    .Frame75 {
+        width: 100%;
+        height: 100%;
+        margin-top: 0px;
+    }
+
+    img.Rectangle10 {
+        width: 100%;
+    }
+
+    .para1 br{
+        display: none;
+    }
+
+    .homehealthy {
+        width: 100%;
+        height: auto;
+        padding-top: 45px;
+    }
+
+    .viewall {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+
+    .sect1 {
+        margin-top: 60px;
+    }
+
+    .mainpics {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .mobview {
+        width: 45%;
+    }
+
+    .sect2 {
+        padding-top: 30px;
+    }
+
+    .readmore {
+        font-size: 15px;
+        margin-top: 0px;
+        padding: 10px 20px;
+    }
+
+    .Global {
+        font-size: 25px;
+        padding-top: 15px;
+        margin-left: 0;
+    }
+
+    .para2 {
+        font-size: 14px;
+        padding-top: 0;
+        margin-left: 0;
+    }
+
+    .para2 br{
+        display: none;
+    }
+
+    .Readmore {
+        margin-top: 0;
+        margin-left: 75px;
+    }
+    .Power {
+        font-size: 25px;
+        padding-top: 10px;
+        padding-bottom: 0;
+    }
+    .sect3 {
+        padding-bottom: 45px;
+        margin-top: 55px;
+        padding-top: 30px;
+    }
+
+    .sect4 {
+        padding-top: 5px;
+    }
+
+    .Copyright {
+        font-weight: 400;
+        margin-top: 21px;
+    }
+
+    .sect5 {
+        padding-top: 30px;
+    }
+
+    .Products {
+        font-size: 25px;
+    }
+
+    .para3 {
+        font-size: 14px;
+        padding-top: 0;
+    }
+
+    .sect6 {
+        padding-top: 30px;
+    }
+
+    .footer {
+        padding-top: 55px;
+    }
+
+    .Grouppng {
+        width: 70%;
+        height: 35%;
+    }
+
+    .para4 br{
+        display: none;
+    }
+
+    .parent {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: -40px;
+    }
+
+    .quicklinks {
+        margin-left: 40px;
+    }
+
+    .parenntt {
+        margin-left: -25px;
+    }
+
+    h1#contactmobview {
+        margin-left: 26px;
+    }
+
+    .liness {
+        margin-top: 60px;
+    }
+
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+    ul.navbar-nav {
+        margin-left: 0 !important;
+    }
+
+    .navbar-nav {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+        align-items: flex-start;
+        gap: 3px;
+    }
+
+    .logo {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .Frame35 {
+        background-image: url(img/Frame\ 35.png);
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 350px;
+        padding-bottom: 40px;
+        margin-top: -85px;
+        background-position: center;
+    }
+    
+    .Impacting {
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 45px;
+        color: #252525;
+        margin-top: -195px;
+    }
+
+    .para1 {
+        font-size: 16px;
+        line-height: 26px;
+        padding-top: 18px;
+        margin: 0;
+    }
+
+    .para1 br {
+        display: none;
+    }
+
+    .Frame75 {
+        width: 90%;
+        height: auto;
+        margin-top: -280px;
+    }
+
+    .sect1 {
+        padding-top: 60px;
+        margin-left: -38px;
+        margin-top: 45px;
+    }
+
+    
+img.homehealthy {
+    padding-top: 40px;
+}
+
+    .Global {
+        font-size: 28px;
+        line-height: 25px;
+        margin-left: 0;
+    }
+
+    .Readmore {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .para2 {
+        padding-top: 10px;
+        margin-left: 0;
+    }
+
+    .para2 br{
+        display: none;
+    }
+
+    .mainpics {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .sect2 {
+        padding-top: 50px;
+    }
+
+    .Power {
+        font-size: 35px;
+        line-height: 56px;
+        padding-top: 50px;
+    }
+
+
+
+    img.Rectangle10 {
+        width: 100%;
+    }
+
+    .homehealthy {
+        width: 100%;
+        height: 100%;
+        padding-left: 0;
+    }
+
+    .box {
+        width: 180px;
+        height: 45px;
+        margin-left: 15px;
+        margin-top: -24px;
+        padding-top: 8px;
+    }
+
+    .parenntt {
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+        margin-left: 0;
+    }
+
+
+
+    img.mobview {
+        width: 25%;
+    }
+
+    .Impacting br{
+        display: none;
+    }
+
+    .sect3 {
+        padding-top: 0;
+    }
+
+    .sect5 {
+        padding-top: 50px;
+    }
+
+    .Products {
+        font-size: 35px;
+    }
+
+    .para3 {
+        padding-top: 15px;
+    }
+
+    .sect6 {
+        padding-top: 50px;
+    }
+
+    .footer {
+        padding-top: 70px;
+    }
+
+    .Grouppng {
+        width: 90%;
+        height: auto;
+    }
+
+    .para4 br {
+        display: none;
+    }
+
+    a#btn {
+        padding: 5px 1px;
+    }
+
+    .contactus {
+        margin-top: 10px;
+        margin-left: 0;
+    }
+    
+    
+
+
+
+
+}
